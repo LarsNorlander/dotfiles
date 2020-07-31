@@ -1,6 +1,6 @@
 [user]
 	name = Lars Norlander
-	email = lars.norlander@cevt.se
+	email = lars.nrlndr@gmail.com
 [alias]
 	co = checkout
 	br = branch
@@ -13,7 +13,3 @@
 	dd = diff develop
 [core]
 	editor = vim
-[url "git@gitlab.cevt.se:"]
-	insteadOf = https://gitlab.cevt.se
-[url "git@eafgit.cevt.se:"]
-	insteadof = https://eafgit.cevt.se/
