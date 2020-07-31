@@ -1,0 +1,19 @@
+[user]
+	name = Lars Norlander
+	email = lars.norlander@cevt.se
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	unstage = reset HEAD --
+	last = log -1 HEAD
+	ds = diff --staged
+	dm = diff master
+	dd = diff develop
+[core]
+	editor = vim
+[url "git@gitlab.cevt.se:"]
+	insteadOf = https://gitlab.cevt.se
+[url "git@eafgit.cevt.se:"]
+	insteadof = https://eafgit.cevt.se/
